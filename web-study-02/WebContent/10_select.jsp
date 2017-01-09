@@ -29,9 +29,7 @@
  			<option value="핸드드립">핸드드립</option>
  		</select>
  		<br><br>
- 		<input type="submit" value="전송" style="float: ">
- 	
- 	
+ 		<input type="submit" value="전송" style="float: right; margin-right:50px">
  </form>
 </body>
 </html>
